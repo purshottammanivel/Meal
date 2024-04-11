@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- default_margin -->
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_marginStart">16dp</dimen>
+    <dimen name="default_marginEnd">16dp</dimen>
+    <dimen name="default_marginTop">16dp</dimen>
+    <dimen name="default_marginBottom">16dp</dimen>
+
+    <!-- default_padding -->
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="default_paddingStart">16dp</dimen>
+    <dimen name="default_paddingEnd">16dp</dimen>
+    <dimen name="default_paddingTop">16dp</dimen>
+    <dimen name="default_paddingBottom">16dp</dimen>
+
+    <!-- small_margin -->
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="small_marginStart">8dp</dimen>
+    <dimen name="small_marginEnd">8dp</dimen>
+    <dimen name="small_marginTop">8dp</dimen>
+    <dimen name="small_marginBottom">8dp</dimen>
+
+    <!-- small_padding -->
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="small_paddingStart">8dp</dimen>
+    <dimen name="small_paddingEnd">8dp</dimen>
+    <dimen name="small_paddingTop">8dp</dimen>
+    <dimen name="small_paddingBottom">8dp</dimen>
+
+    <!-- default_card_dimens -->
+    <dimen name="default_card_corner_radius">8dp</dimen>
+    <dimen name="default_card_elevation">4dp</dimen>
+
+    <!-- default_image_dimens -->
+    <dimen name="default_image_height">220dp</dimen>
+</resources>
